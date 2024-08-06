@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "DesafioControleFluxo/src",
+        "conta-banco/src"
+    ]
+}
