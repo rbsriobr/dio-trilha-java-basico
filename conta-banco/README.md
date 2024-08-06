@@ -1,6 +1,6 @@
-## Getting Started
+## Desafio Conta Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi elaborado a partir do desafio proposto na plataforma Dio
 
 ## Folder Structure
 

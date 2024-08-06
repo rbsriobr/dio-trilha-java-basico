@@ -1,5 +1,9 @@
 import java.util.*;
 
+/**
+ * @author Ricardo Barbosa dos Santos
+ * @version 0.1
+ */
 public class Contador {
     public static void main(String[] args) //throws Exception
     {

@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Projeto do desafio proposto
+Projetos desafio
