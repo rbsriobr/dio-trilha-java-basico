@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "conta-banco/src",
         "DesafioControleFluxo/src",
-        "conta-banco/src"
+        "IPhoneUML/src"
     ]
 }
